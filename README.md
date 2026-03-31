@@ -5,7 +5,11 @@
 🚀 Microsoft (Azure Edge + Paltform) Intern  
 
 ---
+<p align="center">
+  <img src="banner.gif" alt="banner" />
+</p>
 
+---
 ## 🧠 About Me
 
 I’m a software engineer with experience in systems, full stack ,backend engineering, data science and AI-driven applications. I enjoy working close to the system level as well as building full-stack products that solve real-world problems.
@@ -69,12 +73,35 @@ I like building systems that are:
 
 ## ⚙️ Tech Stack
 
-**Languages:** C++, Python, JavaScript, R  
-**Backend:** Node.js, FastAPI, Flask  
-**Frontend:** React.js  
-**ML/AI:** TensorFlow, PyTorch, OpenCV, Scikit-learn  
-**Databases:** MongoDB, MySQL  
-**Systems & Tools:** WinDbg, Git, Docker, AWS  
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### 🤖 ML / AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### 🛠️ Tools & Systems
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![WinDbg](https://img.shields.io/badge/WinDbg-0078D6?style=for-the-badge&logo=windows)
 
 ---
 
