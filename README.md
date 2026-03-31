@@ -3,6 +3,7 @@
 🎓 B.Tech CSE final year @ VIT-AP University  
 💻 Software Engineer | Systems + AI | Data Science
 🚀 Microsoft (Azure Edge + Paltform) Intern  
+🚀 IIIT-Bhubaneswar ML Intern
 
 ---
 <p align="center">
@@ -12,7 +13,7 @@
 ---
 ## 🧠 About Me
 
-I’m a software engineer with experience in systems, full stack ,backend engineering, data science and AI-driven applications. I enjoy working close to the system level as well as building full-stack products that solve real-world problems.
+I’m a software engineer with experience in systems, full stack ,backend engineering, data science ,deep learning and AI-driven applications. I enjoy working close to the system level as well as building full-stack products that solve real-world problems.
 
 I have worked with Microsoft’s Azure Edge + Platform Core OS team, where I focused on storage systems, performance optimization, and low-level debugging and system security.
 
@@ -20,6 +21,8 @@ I like building systems that are:
 - Efficient under the hood (performance, memory, I/O)
 - Reliable in production (testing, fault tolerance)
 - Backed by data and real-world use cases  
+
+Currently I am working as an intern at IIIT Bhubaneswar where I am focussing on developmet of Deep Learning models and developing softwares with it.
 
 ---
 
@@ -92,6 +95,11 @@ I like building systems that are:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 📊 Data Science & Analysis
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
